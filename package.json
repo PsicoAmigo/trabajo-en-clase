@@ -1,0 +1,15 @@
+{
+  "name": "trabajo-en-clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "variable": "intro/variables.js",
+    "operadores":"intro/operadores.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
